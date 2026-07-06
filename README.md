@@ -3,7 +3,7 @@ Hi, I'm Avill – software engineer since 2022, mainly focused on сommercial **
 
 ## 🥷 Skills:
 ### Proficiency in using:
-[![][https://skillicons.dev/icons?i=godot,go,python,docker,postgres,linux,mongodb]]()
+[![](https://skillicons.dev/icons?i=godot,go,python,docker,postgres,linux,mongodb)]()
 
 ### Learning:
-[![][https://skillicons.dev/icons?i=ts,react,js,cs,graphql,kafka]]()
+[![](https://skillicons.dev/icons?i=ts,react,js,cs,graphql,kafka)]()
